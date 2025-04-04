@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "editions",
+  "info": {
+    "singularName": "edition",
+    "pluralName": "editions",
+    "displayName": "Edition"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "edition": {
+      "type": "string"
+    }
+  }
+}
